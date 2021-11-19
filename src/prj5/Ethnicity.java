@@ -11,7 +11,6 @@ import java.text.DecimalFormat;
  * @version 2021.11.17
  */
 
-//this comment was made by Nahom
 public class Ethnicity {
 
     // Field Variables
